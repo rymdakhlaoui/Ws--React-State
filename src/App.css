@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    margin: 0;
+  }
+
+  .img{
+    width: 200px;
+    height: 200px;
+  }
+
+  .display{    
+  text-align: center;
+  }
